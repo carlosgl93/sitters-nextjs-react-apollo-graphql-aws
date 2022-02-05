@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "sitters",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authsitters33e367f1",
+      "Outputs.UserPoolId"
+    ]
+  }
+}

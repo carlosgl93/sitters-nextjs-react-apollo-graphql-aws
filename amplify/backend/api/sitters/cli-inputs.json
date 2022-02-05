@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "sitters",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\cgumu\\dev\\next-amplified\\amplify\\backend\\api\\sitters\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 365,
+      "apiKeyExpirationDate": "2023-02-05T15:51:05.691Z",
+      "keyDescription": ""
+    },
+    "additionalAuthTypes": [
+      {
+        "mode": "AMAZON_COGNITO_USER_POOLS",
+        "cognitoUserPoolId": "authsitters33e367f1"
+      }
+    ]
+  }
+}

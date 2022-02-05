@@ -8,7 +8,12 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "12.0.10",
+    "@apollo/client": "^3.5.8",
+    "@aws-amplify/ui-react": "^1.2.26",
+    "aws-amplify": "^4.3.14",
+    "graphql": "^15.8.0",
+    "next": "11.0.0",
+    "next-apollo": "^5.0.8",
     "react": "17.0.2",
     "react-dom": "17.0.2"
   },

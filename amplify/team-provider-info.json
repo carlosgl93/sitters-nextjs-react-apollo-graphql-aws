@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-sitters-dev-124255-authRole",
+      "UnauthRoleArn": "arn:aws:iam::137191312540:role/amplify-sitters-dev-124255-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::137191312540:role/amplify-sitters-dev-124255-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-sitters-dev-124255-deployment",
+      "UnauthRoleName": "amplify-sitters-dev-124255-unauthRole",
+      "StackName": "amplify-sitters-dev-124255",
+      "StackId": "arn:aws:cloudformation:us-east-1:137191312540:stack/amplify-sitters-dev-124255/4c775fa0-869a-11ec-a87b-123c16fe5a07",
+      "AmplifyAppId": "d30fm47da7y1r4"
+    },
+    "categories": {
+      "auth": {
+        "sitters33e367f1": {}
+      }
+    }
+  }
+}
